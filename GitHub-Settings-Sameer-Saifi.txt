@@ -1,0 +1,68 @@
+GITHUB PROFILE FIXES: sameersaifi07
+Copy each value into GitHub. Nothing here needs code.
+
+==================================================
+1) PROFILE  (github.com/sameersaifi07 -> "Edit profile")
+==================================================
+Name:      Sameer Saifi
+Bio:       Business Analyst & Freelance Shopify Developer. I find where visitors drop off, then build the store that fixes it.
+Company:   Freelance
+Location:  Lucknow, India
+Website:   https://sameersaifi07.github.io/Animated-portfolio/
+Social 1:  https://www.linkedin.com/in/sameer-saifi-517b4825a
+Social 2:  https://cal.com/sameer-saifi-9ci6kx
+-> Save
+
+
+==================================================
+2) REPO DESCRIPTIONS
+==================================================
+Where: open the repo -> the gear icon next to "About" (right side) -> fill Description, Website and Topics -> Save changes.
+(For a GitHub Pages site you can also tick "Use your GitHub Pages website".)
+
+Animated-portfolio
+  Description: Animated portfolio of Sameer Saifi: Shopify stores, 3D websites, services and pricing.
+  Website:     https://sameersaifi07.github.io/Animated-portfolio/
+  Topics:      portfolio shopify html css javascript animation cro
+
+Website-I-ve-Built
+  Description: Gallery of every website I've built: Shopify stores, 3D worlds and scroll stories, all live.
+  Website:     https://sameersaifi07.github.io/Website-I-ve-Built/
+  Topics:      portfolio website-gallery shopify html css javascript
+
+Nj-Sports
+  Description: NJ Sports: a cricket and football community landing page with a one-tap path into Telegram.
+  Website:     https://nj-info.in/
+  Topics:      landing-page html css sports
+
+sameersaifi07   (your profile repo)
+  Description: My animated GitHub profile README.
+  Topics:      github-profile readme
+
+Sameer   (old repo: Cricket.jpg, football.jpg, demo.py, index_4.html)
+  Its description still says "Quality Assurance Engineer | Python Enthusiast | Passionate about Testing",
+  and its GitHub Pages link shows "404 page not found".
+  Best: unpin it (step 3). If you don't need it any more: Settings -> scroll down -> "Archive this repository",
+  or make it Private. Archive and Private are reversible; Delete is not.
+
+
+==================================================
+3) PINNED REPOS  (profile -> "Customize your pins")
+==================================================
+Tick only these, in this order:
+  1. Animated-portfolio
+  2. Website-I-ve-Built
+  3. Nj-Sports
+Untick: Sameer, sameersaifi07   (your profile README already shows at the top, so pinning it is not needed)
+-> Save pins
+
+
+==================================================
+4) CONTRIBUTION GRAPH  (the green squares)
+==================================================
+The graph only counts real activity, so nobody can "fix" it by editing. To grow it honestly:
+  - Profile -> "Contribution settings" -> turn ON "Private contributions",
+    so work in private repos also shows as green squares (without revealing the code).
+  - Commit small, real updates often (site tweaks, new projects) instead of one big upload.
+  - Upload with the same email that is added in GitHub -> Settings -> Emails,
+    otherwise commits do not count.
